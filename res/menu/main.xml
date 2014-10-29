@@ -1,18 +1,25 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
     tools:context="com.example.jokes.MainActivity" >
+=======
+    tools:context="com.example.game.MainActivity" >
+>>>>>>> 319686b0a001a2095e5ad37a6cbbf680326c952a
 
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never"/>
+<<<<<<< HEAD
     
     <item
         android:id="@+id/action_settings2"
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never"/>
+=======
+>>>>>>> 319686b0a001a2095e5ad37a6cbbf680326c952a
 
 </menu>

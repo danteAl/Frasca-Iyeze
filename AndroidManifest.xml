@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.jokes"
+=======
+    package="com.example.game"
+>>>>>>> 319686b0a001a2095e5ad37a6cbbf680326c952a
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -22,10 +26,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity
             android:name=".SecondActivity"
             android:label="@string/app_name" >
         </activity>
+=======
+>>>>>>> 319686b0a001a2095e5ad37a6cbbf680326c952a
     </application>
 
 </manifest>

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <string name="app_name">Jokes</string>
+=======
+    <string name="app_name">Game</string>
+>>>>>>> 319686b0a001a2095e5ad37a6cbbf680326c952a
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
